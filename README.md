@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Blender_BremenUni_HW/blob/main/images/media/logo/blender_logo.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/Blender_BremenUni_HW/blob/main/images/logo/blender_logo.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # Blender_BremenUni_HW
  
